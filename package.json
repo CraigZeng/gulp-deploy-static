@@ -1,0 +1,27 @@
+{
+  "name": "gulp-deploy-static",
+  "version": "1.0.0",
+  "description": "deploy project to product",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CraigZeng/gulp-deploy-static.git"
+  },
+  "keywords": [
+    "gulp",
+    "deploy"
+  ],
+  "author": "zengcheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CraigZeng/gulp-deploy-static/issues"
+  },
+  "homepage": "https://github.com/CraigZeng/gulp-deploy-static",
+  "dependencies": {
+    "gulp-util": "^3.0.4",
+    "through2": "^0.6.5"
+  }
+}
