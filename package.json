@@ -1,6 +1,6 @@
 {
   "name": "gulp-deploy-static",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "deploy project to product",
   "main": "index.js",
   "scripts": {
